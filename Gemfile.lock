@@ -344,7 +344,7 @@ DEPENDENCIES
   mini_backtrace
   mini_magick
   minitest-reporters
-  pg
+  pg (>= 0.18, < 2.0)
   puma
   rails
   rails_12factor
